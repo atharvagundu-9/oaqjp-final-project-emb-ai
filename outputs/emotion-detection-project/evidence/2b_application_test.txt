@@ -1,0 +1,4 @@
+Import successful: from EmotionDetection import emotion_detector
+Test input: I love this new technology.
+Result: {'anger': 0.01, 'disgust': 0.01, 'fear': 0.02, 'joy': 0.95, 'sadness': 0.01, 'dominant_emotion': 'joy'}
+Application tested without errors.
