@@ -1,0 +1,17 @@
+test_anger (test_emotion_detection.TestEmotionDetector.test_anger)
+An angry statement is dominated by anger. ... ok
+test_disgust (test_emotion_detection.TestEmotionDetector.test_disgust)
+A disgusted statement is dominated by disgust. ... ok
+test_fear (test_emotion_detection.TestEmotionDetector.test_fear)
+A fearful statement is dominated by fear. ... ok
+test_invalid_text (test_emotion_detection.TestEmotionDetector.test_invalid_text)
+A service status of 400 produces the required empty result. ... ok
+test_joy (test_emotion_detection.TestEmotionDetector.test_joy)
+A happy statement is dominated by joy. ... ok
+test_sadness (test_emotion_detection.TestEmotionDetector.test_sadness)
+A sad statement is dominated by sadness. ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.004s
+
+OK
